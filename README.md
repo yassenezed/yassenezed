@@ -4,7 +4,7 @@
 - 🧑‍💻 Software Engineer interested in **backend** and **enterprise integrations**  
 - 🚀 Currently learning and building with **SAP technologies** (ABAP, Fiori/UI5, Integration Suite, ERP)  
 - 💞️ Open to collaborating on **open-source projects** related to integrations, tools, automation or developer productivity  
-- 📫 How to reach me: **LinkedIn** or **yassinezaid668@gmail.com**
+- 📫 How to reach me: **[LinkedIn]([url](https://www.linkedin.com/in/yassinezaid/))** or **yassinezaid668@gmail.com**
 
 <!---
 yassenezed/yassenezed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
